@@ -1,0 +1,27 @@
+Features:
+- Auth (JWT)
+- Role-based access
+- Projects & Tasks
+
+Tech:
+- MERN Stack
+
+Setup:
+1. Install backend and frontend dependencies:
+   npm run install:all
+
+Backend:
+1. Start from the repo root:
+   npm run dev
+
+Frontend:
+1. Start the React app from the repo root:
+   npm run start-frontend
+
+Both together:
+1. Start backend and frontend at once:
+   npm start
+
+Alternative direct commands:
+- cd backend && npm install && npm run dev
+- cd frontend && npm install && npm start
